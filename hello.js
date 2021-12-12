@@ -15,4 +15,4 @@ function printWords(word) {
   news(word);
 }
 
-printWords("12345");
+printWords("3535351");
