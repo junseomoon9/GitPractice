@@ -8,4 +8,11 @@ function hi() {
 
 function news(word) {
   console.log(word);
+  console.log("word:" + word);
 }
+
+function printWords(word) {
+  news(word);
+}
+
+printWords("12345");
