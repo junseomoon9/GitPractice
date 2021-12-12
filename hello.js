@@ -15,4 +15,5 @@ function printWords(word) {
   news(word);
 }
 
-printWords("3535351");
+printWords("adgagdaa");
+
