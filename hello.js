@@ -3,4 +3,5 @@ function hi() {
   let x = 3;
   let y = 14;
   let k = x + y;
+  console.log(k);
 }
