@@ -5,3 +5,7 @@ function hi() {
   let k = x + y;
   console.log(k);
 }
+
+function news(word) {
+  console.log(word);
+}
